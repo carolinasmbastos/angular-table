@@ -1,0 +1,17 @@
+table {
+  width: 100%;
+}
+
+th.mat-sort-header-sorted {
+  color: black;
+  font-weight: bold;
+}
+
+::ng-deep input.mat-input-element {
+  background-color: white !important;
+}
+
+::ng-deep mat-form-field {
+  background-color: white !important;
+  width: 50%;
+}
